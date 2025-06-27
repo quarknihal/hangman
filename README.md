@@ -43,7 +43,7 @@ ip 192.123.1.13
 ```bash
 sudo pacman -S tmux
 ```
-### ⏯️2. Start a shared terminal session(from host terminal)
+### ⏯️4. Start a shared terminal session(from host terminal)
 ```bash
 tmux new-session -s sharedgame
 ```
