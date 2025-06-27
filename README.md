@@ -49,7 +49,7 @@ tmux new-session -s sharedgame
 ```
 ---
 ## 🤜Now on the second device(your friend's terminal):
-### 🔧1. Install Open-ssh just like before:
+### 🔧1. Install Open-ssh just like before.
 
 ### 🔗2. Connect to the host using its IP:
 ```bash
