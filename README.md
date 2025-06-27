@@ -3,7 +3,7 @@
 
 ---
 
-## 🤔But bruh... how do we connect pur terminals?
+## 🤔But bruh... how do we connect our terminals?
 ### **Don't worry, I got you!😆**
 All you have to do is follow these simple steps and you will be able to play in no time!
 
