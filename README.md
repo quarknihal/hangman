@@ -25,7 +25,7 @@ sudo apt install tmate
 pkg install tmate
 ```
 
-### 🌐2. Start tmate and copy the ssh session:
+### 🌐2. Start tmate and copy the ssh session(on host terminal):
 ```bash
 tmate
 ```
