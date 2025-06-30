@@ -44,7 +44,7 @@ ssh 6zcFpEFp2ZnzcZXDHXvXrVcpQ@sgp1.tmate.io
 Now just run the hangman file and have fun
 
 
-![Photo](Screenshot From 2025-06-29 12-29-47.png)
+![Photo](hangman/Screenshot From 2025-06-29 12-29-47.png)
 
 
 
