@@ -42,10 +42,3 @@ ssh 6zcFpEFp2ZnzcZXDHXvXrVcpQ@sgp1.tmate.io
 
 ## 🥳Boom! You are now connected to the same terminal!
 Now just run the hangman file and have fun
-
-
-![Photo](https://github.com/quarknihal/hangman/blob/main/Screenshot%20From%202025-06-29%2012-29-47.png)
-
-
-
-
